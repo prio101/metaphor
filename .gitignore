@@ -1,0 +1,7 @@
+# This is the gitignore file where you can write down the files you don't to track
+.sass-cache
+:
+:.map
+custom
+custom.css.map
+.idea
