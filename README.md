@@ -6,8 +6,8 @@
 
 ## Here is a sneak preview of the template
 
-![Front Page]()
-![Single Page]()
+![Front Page](https://raw.githubusercontent.com/prio101/metaphor/master/MetaphorFront.png)
+![Single Page](https://raw.githubusercontent.com/prio101/metaphor/master/MetaPost.png)
 
 
 
