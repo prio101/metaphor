@@ -172,4 +172,9 @@
   font-family: "Monostate", sans-serif;
   font-weight: 200; }
 
+a {
+  text-decoration: none !important; }
+  a:hover {
+    color: #000 !important; }
+
 /*# sourceMappingURL=custom.css.map */
