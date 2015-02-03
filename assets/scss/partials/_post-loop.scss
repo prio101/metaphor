@@ -62,4 +62,21 @@
 
 
 
+
 }
+
+.pagignation{
+    margin-left:30%;
+    
+    display: block;
+    ul{
+      list-style: none;
+
+      .page-numbers a{
+        text-decoration: none;
+        float: left;  
+        margin-left: 3px;
+
+      }
+    }
+  }

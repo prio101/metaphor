@@ -79,6 +79,16 @@
         border-radius: 5px;
         text-decoration: none; }
 
+.pagignation {
+  margin-left: 30%;
+  display: block; }
+  .pagignation ul {
+    list-style: none; }
+    .pagignation ul .page-numbers a {
+      text-decoration: none;
+      float: left;
+      margin-left: 3px; }
+
 .icon-pack {
   color: #3c3c3c;
   padding-left: 1%;
@@ -147,6 +157,10 @@
 
 .single-author {
   margin-left: 10%; }
+
+.nav-links {
+  margin-left: 40%;
+  margin-top: 5%; }
 
 .about-header {
   margin-left: 38%;
