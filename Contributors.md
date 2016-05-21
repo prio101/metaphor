@@ -1,6 +1,5 @@
 # The awesome people who make it possible
 
-* Tanveer Alam Somrat - For his graet Logo
 
 
 
